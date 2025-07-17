@@ -12,6 +12,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Windows 10 (Virtual Machine)
 - Remote Desktop (RDP)
 - Internet Information Services (IIS)
+- osTicket
+- MySQL
+- HeidiSQL
+- PHP Manager for IIS
 
 <h2>Step 1: Create a Windows 10 Virtual Machine in Microsoft Azure</h2>
 
